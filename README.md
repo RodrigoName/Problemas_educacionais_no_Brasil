@@ -39,3 +39,49 @@ Dependendo do nível que se encontre, o "educador" não precisar nem narrar o qu
 Uma grande fonte de aprendizado boa e barata, é a Udemy. Com grande qualidade no ensino internacional (em inglês), com projetos reais além do básico!
 
 >A partir disso, penso que é muito importante todo tipo de projeto realizado ou exercícios estejam à disposição da empresa contratante, com interesse em seu trabalho.
+
+
+
+
+
+# Serious problems in programming education in Brazil
+
+<br/>
+
+On my learning journey, my first teacher: Bonieky Lacerda, with his "FrontEnd from Zero to Professional" course, is a great teacher. Teach at the speed needed for real day-to-day work. But its teaching is rough and aggressive, where the student learns 100% of the techniques not only with the basics, but with the various and various projects that follow. Techniques such as HTML, CSS3, Selectors, Grid, Lists, Tables and Forms, SASS, Flexbox, are automatically learned from so many practical examples.
+
+But the course has some fragile moments in relation to time, when the teacher initially orders them to do exercises without the student having the basis to do so. The teacher sends them to research and try to turn around.
+Well, so far so good, because everything is resolved later in the face of so many practical examples.
+
+Therefore, it is observed that many other courses that teach programming language, teach the basics and at most give some also basic exercises (the "educators" still have the audacity to describe these exercises as Miniprojects). The problem is wide open when they have a real project to do: "make a calculator", "make a calendar with time zone", "make an instagram replica", etc... This is something very positive, but in most of the Sometimes online courses do not offer further development of these projects, and students do not know if they are developing correctly or waste a lot of time trying to research how to do it (with other "educators").
+
+IT "educators" are generally young and many are unprepared and do not understand didactics to correctly pass teaching on.
+
+In traditional schools how do we learn math and its equations? We learned the fundamentals of mathematics and from that, teachers take students to exhaustion with so many examples, and from learning through so many replications / repetitions, you can dare to do new and different things. Teachers can innovate by requesting the resolution of new innovative problems.
+
+From this point on, we can reflect that most Brazilian companies do not have time to hire new employees (Junior), because they do not have the agility to solve problems. But it does not stop there, hiring with a good salary, good benefits packages and a sensitive area of ​​the company {$}, and the likely candidate, despite his apparent qualification, is not really qualified to innovate quickly and with personalized applications.
+
+
+
+<br/>
+I will now highlight the critical points of programming education in Brazil:
+<br><br/>
+
+* Programming educators may or may not be subject matter experts
+* Programming educators can be anyone without any kind of certification many times
+* Educators often have no basis for educational didactics, being very far from being teachers
+* Many courses teach the basics, leave exercises blank, no answers or further resolutions
+* Many courses do not teach how to handle errors that appear in frameworks or text editors
+* Many courses deal with simple exercises, calling them "projects"
+* Courses starting at the basic level should follow a fast pace, as being in a video that will teach 3 simple concepts in 1 hour may not be worth it for a professional in the field.
+
+## Tip:
+
+> When looking for a course, you should always purchase a course with real projects (much more than one), as this will fix the learning.
+Depending on the level you're at, the "educator" doesn't even need to narrate what you're doing, just show you doing it at a fast speed
+
+>A Brazilian case of success that we can mention is the "Rocketseat". The teaching program takes advantage of the fragility of Brazilian courses to teach real projects at a good speed of real and professional learning! They launch challenges with their respective resolutions. Of course they sometimes get tangled up too, but it's only natural for us to know that mistakes do happen and can be corrected at all professional levels. And also whoever has a certificate like this cannot be considered to know everything or to be at a higher level than most.
+A great source of good and inexpensive learning is Udemy. With great quality in international education (in English), with real projects beyond the basics!
+
+>From that point on, I think it is very important that all types of projects or exercises are available to the contracting company, interested in their work.
+
